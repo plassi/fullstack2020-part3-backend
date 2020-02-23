@@ -1,0 +1,7 @@
+POST https://shielded-thicket-25096.herokuapp.com/api/persons/
+Content-Type: application/json
+
+{ 
+  "name": "testinimi2",
+  "number": "42315231"
+}
